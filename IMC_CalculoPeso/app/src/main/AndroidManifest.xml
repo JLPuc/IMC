@@ -17,6 +17,7 @@
         </activity>
         <activity android:name=".Informacion" />
         <activity android:name=".CalculoIMC"></activity>
+        <service android:name=".Clases.Calculadora" />
     </application>
 
 </manifest>
