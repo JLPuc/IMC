@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">IMC_CalculoPeso</string>
+    <string name="bienvenida">Bienvenido a la calculadora de Índice de Masa Corporal</string>
+    <string name="que">Qué es el IMC</string>
+    <string name="calculo">Calcular su IMC</string>
+    <string name="salir">Salir</string>
 </resources>
